@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 109.92 132.94">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="Euronics_Icon" data-name="Euronics Icon">
+      <g id="EURONICS_WITH_ICON" data-name="EURONICS WITH ICON">
+        <path class="cls-1" d="M54.8,57.01L0,34.62V0h19.92v19.92h23.24V0h23.24v19.92h16.6V0h26.56v34.62l-54.77,22.39ZM0,110.57l54.56,22.37,16.11-6.33L0,97.91v12.66ZM0,85.24l85.78,34.98,16.11-6.33L0,72.58s0,12.66,0,12.66ZM109.57,47.23l-39.48,15.88,15.78,6.33,23.71-9.55v-12.66ZM109.57,69.6l-11.35,4.61,11.35,4.61v-9.21ZM0,46.94v12.66l109.57,44.78v-12.63l.36-.1L0,46.94Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
